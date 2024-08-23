@@ -65,12 +65,12 @@ const StackNavigator = () => {
           }}
       />
 
-{/* create thread */}
+{/* Post thread */}
 <Tab.Screen
         name="thread"
         component={ThreadsScreen}
         options={{
-          tabBarLabel:"create Thread",
+          tabBarLabel:"create Post",
           tabBarLabelStyle:{color:"black"},
           headerShown:false,
           tabBarIcon:({focused})=>

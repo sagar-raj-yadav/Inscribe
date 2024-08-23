@@ -139,7 +139,7 @@ const Home = () => {
       <View style={styles.header}>
         <Image 
           style={styles.logo}
-          source={require('../assets/threads.png')}
+          source={require('../assets/logo.png')}
         />
       </View>
 
