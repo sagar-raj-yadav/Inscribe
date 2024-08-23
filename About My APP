@@ -1,0 +1,49 @@
+API SERVER -> https://thread-api-gjhu.onrender.com/user
+
+Here's a description of your app, "Inscribe":-
+---
+
+# Inscribe
+Inscribe is a dynamic social platform where users can express their thoughts, share images, and connect with others in a vibrant community. Whether you're writing your inner musings, exploring the ideas of others, or engaging with content through likes and comments, Inscribe offers a seamless and engaging experience.
+
+### Key Features:
+
+- **Post Thoughts and Images**: Share your thoughts or ideas and enhance your posts with images. Your content becomes part of a diverse feed where others can engage with it.
+  
+- **Explore and Interact**: Discover posts from other users, like, comment, and engage with the community. Interaction is at the core of Inscribe, making it easy to connect and share ideas.
+
+- **Follow and Discover**: Follow users whose content resonates with you. Explore profiles to see what others are sharing, and search for users or specific posts by name.
+
+- **User Profile Management**: View your profile and those of others to see their posts and interactions. Keep track of your own thoughts and contributions to the community.
+
+- **Post Management**: Maintain control over your content with the ability to delete posts that no longer represent your thoughts.
+
+### Frontend:
+
+- **React Native**: Leveraging React Native, Inscribe provides a smooth and responsive mobile experience, ensuring that users can engage with content on the go.
+
+- **CSS**: Custom styling with CSS ensures that the app is visually appealing and easy to navigate.
+
+- **Axios**: Used for efficient and straightforward API communication, Axios handles all the data-fetching needs, from retrieving posts to submitting new thoughts.
+
+- **Expo Icon**: Integration with Expo Icon ensures that your app is not just functional but also aesthetically pleasing with beautifully designed icons.
+
+- **JSON & REST API**: The app communicates with the backend using JSON through REST API, ensuring data is structured and transmitted effectively.
+
+### Backend:
+
+- **Express.js**: The app’s backend is powered by Express.js, offering a fast, unopinionated, and minimalist framework for building robust APIs.
+
+- **MongoDB**: Data is stored securely in MongoDB, a NoSQL database known for its scalability and flexibility. This ensures that all user data, posts, and interactions are handled efficiently.
+
+- **JWT Authentication**: Secure your users' sessions with JWT (JSON Web Tokens), providing a safe and stateless authentication mechanism.
+
+- **Bcrypt**: Protect user passwords with Bcrypt, an industry-standard hashing algorithm, ensuring that sensitive data remains secure.
+
+### More About Inscribe:
+
+Inscribe is designed with the user in mind, making it easy to share and connect in a meaningful way. Whether you're reflecting on personal experiences, sharing a moment through images, or discovering new thoughts, Inscribe is your platform for connection and expression. The combination of powerful backend technologies and a user-friendly frontend ensures that your experience is both secure and enjoyable. As you build your network and engage with others, Inscribe evolves with your journey, offering a space where your thoughts can flourish.
+
+---
+
+This description highlights the core functionality, technology stack, and the overall experience your app provides. It showcases both the technical aspects and the user-centric design philosophy behind "Inscribe."
